@@ -1,0 +1,89 @@
+#bölüm1 {
+  background-color: #00000099;
+}
+#color1 {
+  background-color: #FCAF17 ;
+}
+
+#home {
+
+  background-image: url("../../../assets/images/image/arkaplan.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 800px;
+
+  .img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 800px;
+    background: rgba($color: #000000, $alpha: 0.4);
+  }
+
+  #button1{
+    height: 50px;
+    width: 220px;
+
+
+  }
+  #button2{
+    height: 50px;
+    width: 220px;
+
+  }
+  #logo1 {
+    float: left;
+    margin-left: 150px;
+    margin-top: 50px;
+  }
+
+  #logo2 {
+
+    float: right;
+    margin-right: 230px;
+    margin-top: 50px;
+  }
+
+  #logo3 {
+    float: right;
+    margin-top: 50px;
+  }
+
+  #hello31 {
+
+    margin-left: 305px;
+margin-top: 143px;
+  }
+
+}
+
+
+
+.ket {
+  background-color: #00000099;
+
+}
+
+.d-flex {
+background-color: #000000;
+  padding: 100px;
+
+}
+
+#card1 {
+
+margin-top: 100px;
+}
+
+
+#home1 {
+
+  background-image: url("../../../assets/images/image/arkaplan.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 580px;
+
+  }

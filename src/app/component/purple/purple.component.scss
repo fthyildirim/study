@@ -1,0 +1,32 @@
+ul {
+  font-size: 35px;
+
+}
+
+body {margin:25px;}
+
+div.polaroid {
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+color: aliceblue;
+
+}
+
+div.ketıl {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.link1 a:hover {
+  color: red;
+}
+
+a:active {
+  color: purple;
+}
+
+.navbar{
+  font-family: 'Xanh Mono', monospace;
+}
